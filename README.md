@@ -45,7 +45,9 @@ There were modifications done in many different Sections of Project such as maki
 
 - **ULTRASONIC SENSOR**: Sensor over here, mounted on servo is able to read distance from right and left side respectively with the help of NewPing library functions.
 
-- **SERVO**: Servo's Functionality is to rotate 'x' degree right side and 'y' degree left side when it detects object otherwise it will be at 90 degree angle. For the project               x =40   and y=150.     
+- **SERVO**: Servo's Functionality is to rotate 'x' degree right side and 'y' degree left side when it detects object otherwise it will be at 90 degree angle. For the project               x =40   and y=150.  
+  
+- **RESISTOR**: Two 560 ohm resistors to save LEDS from burnings.
 
 ![WhatsApp Image 2021-04-14 at 10 35 26 AM](https://user-images.githubusercontent.com/69771908/114751121-f972fe80-9d11-11eb-9a5f-d8df0ae8bb3f.jpeg)
 
@@ -60,5 +62,12 @@ Changes were also brought to this section of porject that is making electra work
  #HARDWARE COMPONENTS
  
  All the components will be the same except for the Ultrasonic sensor and servo will be of no use and addition of **HC-05 BLUETOOTH MODULE** 
+ 
+ # DESIGN AND MECHANISM
+ 
+ <img width="329" alt="BLUETOOTH CONTROLLED" src="https://user-images.githubusercontent.com/69771908/114757686-650c9a00-9d19-11eb-9948-a999056a83e3.png">
+ 
+ 
+
 
 

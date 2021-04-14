@@ -10,7 +10,7 @@ There were modifications done in many different Sections of Project such as maki
 
 ### LIBRARY
 
-- For this project, we have used **NewPing_v1.9.1** library to take the advantage od ultrasonic sensor functions.
+- For this project, we have used **NewPing_v1.9.1** library to take the advantage of ultrasonic sensor functions.
 
 ### COMPONENTS
 
@@ -27,9 +27,12 @@ There were modifications done in many different Sections of Project such as maki
 - 12    X     BATTERY (1.5V EACH)
 
 
-# MECHANISM :robot:
+# DESIGN AND MECHANISM :robot:
 
-![WhatsApp Image 2021-04-14 at 10 35 26 AM](https://user-images.githubusercontent.com/69771908/114751121-f972fe80-9d11-11eb-9a5f-d8df0ae8bb3f.jpeg)
+
+
+
+
 
 - **MOTOR DRIVER**: The Red chip is the Motor Driver where motors pins are connected and                 it is also given a power of 9v as it operates in range of 7-12V.
 
@@ -43,4 +46,4 @@ There were modifications done in many different Sections of Project such as maki
 
 - **JUMPER WIRES**: All the components of this project are interconnected using jumper wires. Eg Male to Male, Male to Female, Female to Female wires
 
-  
+![WhatsApp Image 2021-04-14 at 10 35 26 AM](https://user-images.githubusercontent.com/69771908/114751121-f972fe80-9d11-11eb-9a5f-d8df0ae8bb3f.jpeg)

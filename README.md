@@ -77,7 +77,7 @@ Changes were also brought to this section of porject that is making electra work
 
 This project has a strong possiblity of influencing the electronic gadgets that can be made by embedding this technology. It can also be a future start-up for toy cars or robo cars. 
 
-# CREDTS
+# CREDITS
 
 :point_right: **DR. TREVOR TOMESH**: FOR SHARING HIS GREAT KNOWLEDGE TO US AND SHOWING THE APPLICATIONS OF VARIOUS DIFFERENT ELECTRONIC COMPONENTS.
 

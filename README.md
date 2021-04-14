@@ -79,7 +79,7 @@ This project has a strong possiblity of influencing the electronic gadgets that 
 
 # CREDITS
 
-:point_right: **DR. TREVOR TOMESH**: FOr Sharing His Great Knowledge to Us and Showing the Applications of Various Different Electronic Components.
+:point_right: **DR. TREVOR TOMESH**: For Sharing His Great Knowledge to Us and Showing the Applications of Various Different Electronic Components.
 
 :point_right: **ALEX CLARKE**: Being a Best Lab Instructor and Always Ready to Help for Even a Tiny Thing and Also for Making Us Aspirant for the Project.
 

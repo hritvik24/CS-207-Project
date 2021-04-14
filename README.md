@@ -44,4 +44,8 @@ There were modifications done in many different Sections of Project such as maki
 
 - **JUMPER WIRES**: All the components of this project are interconnected using jumper wires. Eg Male to Male, Male to Female, Female to Female wires
 
+- **ULTRASONIC SENSOR**: Sensor over here, mounted on servo is able to read distance from right and left side respectively with the help of NewPing library functions.
+
+- **SERVO**: Servo's Functionality is to rotate 'x' degree right side and 'y' degree left side when it detects object otherwise it will be at 90 degree angle. For the project               x =40   and y=150.     
+
 ![WhatsApp Image 2021-04-14 at 10 35 26 AM](https://user-images.githubusercontent.com/69771908/114751121-f972fe80-9d11-11eb-9a5f-d8df0ae8bb3f.jpeg)

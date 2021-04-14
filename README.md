@@ -6,7 +6,7 @@ There were modifications done in many different Sections of Project such as maki
 
 ![img1](https://user-images.githubusercontent.com/69771908/114747781-72705700-9d0e-11eb-96fd-b7f59df36b12.jpg)
 
-#HARDWARE COMPONENTS AND LIBRARY
+# HARDWARE COMPONENTS AND LIBRARY
 
 ![WhatsApp Image 2021-04-14 at 10 35 26 AM](https://user-images.githubusercontent.com/69771908/114751121-f972fe80-9d11-11eb-9a5f-d8df0ae8bb3f.jpeg)
 

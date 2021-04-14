@@ -21,7 +21,6 @@ There were modifications done in many different Sections of Project such as maki
 - 1     X     SERVO
 - 1     X     ARDUINO UNO
 - 1     X     MOTOR DRIVER
-- 1     X     HC-05 BLUETOOTH MODULE 
 - 2     X     RED LEDS 
 - 1     X     BREADBOARD
 - 12    X     BATTERY (1.5V EACH)
@@ -49,3 +48,17 @@ There were modifications done in many different Sections of Project such as maki
 - **SERVO**: Servo's Functionality is to rotate 'x' degree right side and 'y' degree left side when it detects object otherwise it will be at 90 degree angle. For the project               x =40   and y=150.     
 
 ![WhatsApp Image 2021-04-14 at 10 35 26 AM](https://user-images.githubusercontent.com/69771908/114751121-f972fe80-9d11-11eb-9a5f-d8df0ae8bb3f.jpeg)
+
+# SMARTPHONE CONTROLLED ELECTRA
+
+Changes were also brought to this section of porject that is making electra work on our commmand. Basic code of it used two DC motors to rotate the car, in this project we used 4 of the DC motors to turn around. Additionaly placed LEDS whose functionality acts similar to the above one. 
+ 
+ 
+ IMAGE OF ELECTRA WITH HC-05
+ 
+ 
+ #HARDWARE COMPONENTS
+ 
+ All the components will be the same except for the Ultrasonic sensor and servo will be of no use and addition of **HC-05 BLUETOOTH MODULE** 
+
+

@@ -1,2 +1,2 @@
 # MG HECTOR AKA ELECTRA
-+ NLM,.CV,LD,V.
+

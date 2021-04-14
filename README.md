@@ -5,7 +5,6 @@ Project Smartphone controlled car deals with the application of HC-05 Bluetooth 
 There were modifications done in many different Sections of Project such as making car avoid obstacle using ultrasonic sensor and through LEDS,side signals are given according to the turn electra makes. Major elevation to the existing project is that electra runs on it own and if encouters any obstacle on its way, it will find its way and will move ahead in that direction.
 
 
-![WhatsApp Image 2021-04-14 at 10 35 26 AM (1)](https://user-images.githubusercontent.com/69771908/114746681-42748400-9d0d-11eb-922b-83afb83dd3f6.jpeg)
 
 
 Moving ahead to mechanism: :robot:

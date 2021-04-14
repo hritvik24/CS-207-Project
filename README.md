@@ -6,7 +6,7 @@ There were modifications done in many different Sections of Project such as maki
 
 ![img1](https://user-images.githubusercontent.com/69771908/114747781-72705700-9d0e-11eb-96fd-b7f59df36b12.jpg)
 
-# HARDWARE COMPONENTS AND LIBRARY
+## HARDWARE COMPONENTS AND LIBRARY
 
 ### LIBRARY
 
@@ -26,7 +26,7 @@ There were modifications done in many different Sections of Project such as maki
 - 12    X     BATTERY (1.5V EACH)
 
 
-# DESIGN AND MECHANISM FOR SELF DRIVING ELECTRA:robot:
+## DESIGN AND MECHANISM FOR SELF DRIVING ELECTRA:robot:
 
 ![WhatsApp Image 2021-04-14 at 10 35 26 AM](https://user-images.githubusercontent.com/69771908/114751121-f972fe80-9d11-11eb-9a5f-d8df0ae8bb3f.jpeg)
 
@@ -60,15 +60,20 @@ Changes were also brought to this section of porject that is making electra work
  IMAGE OF ELECTRA WITH HC-05
  
  
-# HARDWARE COMPONENTS
+## HARDWARE COMPONENTS
+
+- 1     X     HC-05 BLUETOOTH MODULE
  
- All the components and its mechanism will be the same except for the Ultrasonic sensor and servo will be of no use and addition of **HC-05 BLUETOOTH MODULE** 
+ All the other components and its mechanism will be the same except for the Ultrasonic sensor and servo will be of no use. 
  
- # DESIGN AND MECHANISM
+ ## DESIGN AND MECHANISM
  
  <img width="329" alt="BLUETOOTH CONTROLLED" src="https://user-images.githubusercontent.com/69771908/114757686-650c9a00-9d19-11eb-9948-a999056a83e3.png">
  
  - **HC-05 BLUETOOTH MODULE**: This module is used to control electra according to the instructions given using smartphone application.
+
+
+
  
 
 

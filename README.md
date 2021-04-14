@@ -28,7 +28,8 @@ There were modifications done in many different Sections of Project such as maki
 
 # DESIGN AND MECHANISM FOR SELF DRIVING ELECTRA:robot:
 
-<img width="390" alt="SELFDRIVING" src="https://user-images.githubusercontent.com/69771908/114755277-b2d3d300-9d16-11eb-9cc8-c533684eeff7.png">
+![WhatsApp Image 2021-04-14 at 10 35 26 AM](https://user-images.githubusercontent.com/69771908/114751121-f972fe80-9d11-11eb-9a5f-d8df0ae8bb3f.jpeg)
+
 
 
 - **MOTOR DRIVER**: The Red chip is the Motor Driver where motors pins are connected and                 it is also given a power of 9v as it operates in range of 7-12V.
@@ -49,7 +50,7 @@ There were modifications done in many different Sections of Project such as maki
   
 - **RESISTOR**: Two 560 ohm resistors to save LEDS from burnings.
 
-![WhatsApp Image 2021-04-14 at 10 35 26 AM](https://user-images.githubusercontent.com/69771908/114751121-f972fe80-9d11-11eb-9a5f-d8df0ae8bb3f.jpeg)
+<img width="390" alt="SELFDRIVING" src="https://user-images.githubusercontent.com/69771908/114755277-b2d3d300-9d16-11eb-9cc8-c533684eeff7.png">
 
 # SMARTPHONE CONTROLLED ELECTRA
 

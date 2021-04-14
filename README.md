@@ -28,7 +28,8 @@ There were modifications done in many different Sections of Project such as maki
 
 ## DESIGN AND MECHANISM FOR SELF DRIVING ELECTRA:robot:
 
-![WhatsApp Image 2021-04-14 at 10 35 26 AM](https://user-images.githubusercontent.com/69771908/114751121-f972fe80-9d11-11eb-9a5f-d8df0ae8bb3f.jpeg)
+![i1](https://user-images.githubusercontent.com/69771908/114759497-79519680-9d1b-11eb-94f7-a71cb108fe47.jpeg)
+
 
 
 

@@ -60,14 +60,15 @@ Changes were also brought to this section of porject that is making electra work
  IMAGE OF ELECTRA WITH HC-05
  
  
- #HARDWARE COMPONENTS
+# HARDWARE COMPONENTS
  
- All the components will be the same except for the Ultrasonic sensor and servo will be of no use and addition of **HC-05 BLUETOOTH MODULE** 
+ All the components and its mechanism will be the same except for the Ultrasonic sensor and servo will be of no use and addition of **HC-05 BLUETOOTH MODULE** 
  
  # DESIGN AND MECHANISM
  
  <img width="329" alt="BLUETOOTH CONTROLLED" src="https://user-images.githubusercontent.com/69771908/114757686-650c9a00-9d19-11eb-9948-a999056a83e3.png">
  
+ - **HC-05 BLUETOOTH MODULE**: This module is used to control electra according to the instructions given using smartphone application.
  
 
 

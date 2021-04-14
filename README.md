@@ -24,6 +24,7 @@ There were modifications done in many different Sections of Project such as maki
 - 2     X     RED LEDS 
 - 1     X     BREADBOARD
 - 12    X     BATTERY (1.5V EACH)
+- 2     X     RESISTOR (560 OHM)
 
 
 ## DESIGN AND MECHANISM FOR SELF DRIVING ELECTRA:robot:

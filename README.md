@@ -58,8 +58,8 @@ There were modifications done in many different Sections of Project such as maki
 
 Changes were also brought to this section of porject that is making electra work on our commmand. Basic code of it used two DC motors to rotate the car, in this project we used 4 of the DC motors to turn around. Additionaly placed LEDS whose functionality acts similar to the above one. 
  
-![WhatsApp Image 2021-04-14 at 8 25 22 PM (1)](https://user-images.githubusercontent.com/69771908/114813310-1853ae00-9d6f-11eb-984a-6f50e5485e31.jpeg)
- 
+![bluetooth](https://user-images.githubusercontent.com/69771908/114813853-2f46d000-9d70-11eb-835c-b25f7213f9a8.jpg)
+
  
 ## HARDWARE COMPONENTS
 

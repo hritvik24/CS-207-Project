@@ -61,7 +61,7 @@ There were modifications done in many different Sections of Project such as maki
 
 # SMARTPHONE CONTROLLED ELECTRA
 
-Changes were also brought to this section of porject that is making electra work on our commmand. Basic code of it used two DC motors to rotate the car, in this project we used 4 of the DC motors to turn around. Additionaly placed LEDS whose functionality acts similar to the above one. 
+Changes were also brought to this section of project that is making electra work on our commmand. Basic code of it used two DC motors to rotate the car, in this project we used 4 of the DC motors to turn around. Additionaly, placed LEDS whose functionality acts similar to the above one. 
  
 ![bluetooth](https://user-images.githubusercontent.com/69771908/114813853-2f46d000-9d70-11eb-835c-b25f7213f9a8.jpg)
 
@@ -70,7 +70,7 @@ Changes were also brought to this section of porject that is making electra work
 
 - 1     X     [HC-05 BLUETOOTH MODULE](https://www.amazon.ca/DSD-TECH-HC-05-Pass-Through-Communication/dp/B01G9KSAF6/ref=sr_1_1_sspa?dchild=1&keywords=HC-05+BLUETOOTH+MODULE&qid=1618462037&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRlhWTE40R0pNNEw0JmVuY3J5cHRlZElkPUEwNjc1NzQ0MVQxMEVRNktIUEpTMyZlbmNyeXB0ZWRBZElkPUEwNzYyNjIyM0dTMzhHUFo4VFBJMSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
  
- All the other components and its mechanism will be the same except for the Ultrasonic sensor and servo will be of no use. 
+ All the other components and its mechanism will be the same except for the Ultrasonic sensor and servo will now be of no use. 
  
  ## DESIGN AND MECHANISM
  
@@ -92,7 +92,7 @@ This project has a strong possiblity of influencing the electronic gadgets that 
 
 # FINAL VIDEO 
 
-Click this link to check out the final video of [THE SHOWDOWN OF ELCTRA](https://youtu.be/YIb6OchHkYA)
+Click this link to check out the final video of [THE SHOWDOWN OF ELECTRA](https://youtu.be/YIb6OchHkYA)
 
 
  

@@ -22,6 +22,7 @@ There were modifications done in many different Sections of Project such as maki
 - 12    X     [BATTERY (1.5V EACH)](https://www.amazon.ca/Energizer-L92SBP-8-Ultimate-Lithium-Battery/dp/B071CNQ3TG/ref=sr_1_1_sspa?dchild=1&keywords=1.5V+ENERGIZER&qid=1618461976&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFVQzdIV0RYSVBINUMmZW5jcnlwdGVkSWQ9QTA2NjkwMTgxNTVWU09SVU1EN1pBJmVuY3J5cHRlZEFkSWQ9QTA2MzMwODIzT1NCNDMxQ01RMzNWJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 - 2     X     [RESISTOR (560 OHM)](https://www.amazon.ca/Projects-10EP512560Rca-560-Resistors-Pack/dp/B07ZTR3L7J/ref=sr_1_6?dchild=1&keywords=560+OHM+RESISTOR&qid=1618462002&sr=8-6)
 
+- For the kit that excludes motor driver, battery, Ultrasonic Sensor,DC motor you can order you kit from [SOLARBOTICS](https://solarbotics.com/product/ardx/).
 ### LIBRARY
 
 - For this project, we have used **NewPing_v1.9.1** library to take the advantage of ultrasonic sensor functions.

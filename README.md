@@ -16,7 +16,7 @@ There were modifications done in many different Sections of Project such as maki
 
 - 4     X     RUBBER WHEELS
 - 4     X     DC MOTORS
-- 30    X     JUMPER WIRES
+- 30    X     JUMPER WIRES(https://www.amazon.ca/Multicolored-Breadboard-Dupont-Jumper-wires/dp/B0758DPL2C/ref=sr_1_34?dchild=1&keywords=jumper+cable+set+for+arduino&qid=1618461429&sr=8-34)
 - 1     X     ULTRASONIC SENSOR
 - 1     X     SERVO
 - 1     X     ARDUINO UNO

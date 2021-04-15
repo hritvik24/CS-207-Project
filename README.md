@@ -16,15 +16,15 @@ There were modifications done in many different Sections of Project such as maki
 
 - 4     X     RUBBER WHEELS
 - 4     X     DC MOTORS
-- 30    X     JUMPER WIRES(https://www.amazon.ca/Multicolored-Breadboard-Dupont-Jumper-wires/dp/B0758DPL2C/ref=sr_1_34?dchild=1&keywords=jumper+cable+set+for+arduino&qid=1618461429&sr=8-34)
-- 1     X     ULTRASONIC SENSOR
-- 1     X     SERVO
-- 1     X     ARDUINO UNO
-- 1     X     MOTOR DRIVER
-- 2     X     RED LEDS 
-- 1     X     BREADBOARD
-- 12    X     BATTERY (1.5V EACH)
-- 2     X     RESISTOR (560 OHM)
+- 30    X     [JUMPER WIRES](https://www.amazon.ca/Multicolored-Breadboard-Dupont-Jumper-wires/dp/B0758DPL2C/ref=sr_1_34?dchild=1&keywords=jumper+cable+set+for+arduino&qid=1618461429&sr=8-34)
+- 1     X     [ULTRASONIC SENSOR](https://www.amazon.ca/CANADUINO-Ultrasonic-Distance-Sensor-Raspberry/dp/B075CRBS56/ref=sr_1_11?dchild=1&keywords=Ultrasonic+sensor&qid=1618461687&sr=8-11)
+- 1     X     [SERVO](https://www.amazon.ca/Miuzei-Motors-Helicopter-Airplane-Control/dp/B07Z16DWGW/ref=sr_1_1?dchild=1&keywords=KeeYees+SG90+9G+Micro+Servo+Motor+with+PCA9685+16+Channel+12+Bit+PWM+Servo+Motor+Driver+IIC+Module+for+Arduino+RC+Robot+Helicopter+Airplane+Remote+Control&qid=1618461776&sr=8-1)
+- 1     X     [ARDUINO UNO](https://www.amazon.ca/Arduino-A000073-Uno-REV3-SMD/dp/B00PUOVSYS/ref=sr_1_7?dchild=1&keywords=ARDUINO+UNO&qid=1618461819&sr=8-7)
+- 1     X     [MOTOR DRIVER](https://www.amazon.ca/PChero-Controller-Module-Stepper-Arduino/dp/B07GTCWN9Z/ref=sr_1_1_sspa?dchild=1&keywords=MOTOR+DRIVER&qid=1618461850&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFFUlNTU0hJMlNURlomZW5jcnlwdGVkSWQ9QTA1MTQyMzAzN0tMSVhZVjNPRFVJJmVuY3J5cHRlZEFkSWQ9QTA3NzI2NTgySlZDRERSQzg4VDRXJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+- 2     X     [RED LEDS](https://www.amazon.ca/EDGELEC-120pcs-Lights-Diffused-Emitting/dp/B08FB727WX/ref=sr_1_7?dchild=1&keywords=red+led&qid=1618461908&sr=8-7)
+- 1     X     [BREADBOARD](https://www.amazon.ca/Eiechip-Breadboard-Solderless-Prototype-Universal/dp/B07RN4BTDF/ref=sr_1_18?dchild=1&keywords=BREADBOARD+SMALL&qid=1618461942&sr=8-18)
+- 12    X     [BATTERY (1.5V EACH)](https://www.amazon.ca/Energizer-L92SBP-8-Ultimate-Lithium-Battery/dp/B071CNQ3TG/ref=sr_1_1_sspa?dchild=1&keywords=1.5V+ENERGIZER&qid=1618461976&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFVQzdIV0RYSVBINUMmZW5jcnlwdGVkSWQ9QTA2NjkwMTgxNTVWU09SVU1EN1pBJmVuY3J5cHRlZEFkSWQ9QTA2MzMwODIzT1NCNDMxQ01RMzNWJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+- 2     X     [RESISTOR (560 OHM)](https://www.amazon.ca/Projects-10EP512560Rca-560-Resistors-Pack/dp/B07ZTR3L7J/ref=sr_1_6?dchild=1&keywords=560+OHM+RESISTOR&qid=1618462002&sr=8-6)
 
 
 ## DESIGN AND MECHANISM FOR SELF DRIVING ELECTRA:robot:
@@ -63,7 +63,7 @@ Changes were also brought to this section of porject that is making electra work
  
 ## HARDWARE COMPONENTS
 
-- 1     X     HC-05 BLUETOOTH MODULE
+- 1     X     [HC-05 BLUETOOTH MODULE](https://www.amazon.ca/DSD-TECH-HC-05-Pass-Through-Communication/dp/B01G9KSAF6/ref=sr_1_1_sspa?dchild=1&keywords=HC-05+BLUETOOTH+MODULE&qid=1618462037&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRlhWTE40R0pNNEw0JmVuY3J5cHRlZElkPUEwNjc1NzQ0MVQxMEVRNktIUEpTMyZlbmNyeXB0ZWRBZElkPUEwNzYyNjIyM0dTMzhHUFo4VFBJMSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
  
  All the other components and its mechanism will be the same except for the Ultrasonic sensor and servo will be of no use. 
  

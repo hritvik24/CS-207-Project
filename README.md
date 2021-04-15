@@ -85,6 +85,9 @@ This project has a strong possiblity of influencing the electronic gadgets that 
 
 :point_right: **LEVI/PAYTON**: For Being a Best Friend as a Instructor and Solving Our Problems.
 
+# FINAL VIDEO 
+
+Click this link to check out the final video of [THE SHOWDOWN OF ELCTRA](https://youtu.be/YIb6OchHkYA)
 
 
  

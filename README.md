@@ -73,7 +73,7 @@ Changes were also brought to this section of porject that is making electra work
  
  - **HC-05 BLUETOOTH MODULE**: This module is used to control electra according to the instructions given using smartphone application.
 
-# FUTURE OF INNOVATION
+# THE FUTURE OF INNOVATION
 
 This project has a strong possiblity of influencing the electronic gadgets that can be made by embedding this technology. It can also be a future start-up for toy cars or robo cars. 
 

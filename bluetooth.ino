@@ -6,7 +6,6 @@
                                       JEEL B. PRAJAPTI
                            OLD CODE : http://bit.ly/2VexQ99
                            NEW CODE : WRITTEN BELOW
-
 */
 
 // BELOW PINS CONTROL MOTOR DRIVER
@@ -36,7 +35,7 @@ void loop() {
     Serial.println(t);
   }
 
-  if (t == 'G')  
+  if (t == 'F')  
   {    
     digitalWrite(led_right, HIGH);              
     digitalWrite(led_left, HIGH);     
@@ -46,7 +45,7 @@ void loop() {
     digitalWrite(R2, LOW);
   }
 
-  else if (t == 'F')        //MOVES IN BACKWARD DIRECTION AS IN REVERSE 
+  else if (t == 'G')        //MOVES IN BACKWARD DIRECTION AS IN REVERSE 
   {    
     digitalWrite(led_right, HIGH);              
     digitalWrite(led_left, HIGH);  
@@ -60,7 +59,10 @@ void loop() {
   {  
     digitalWrite(led_right, LOW);  
     
-    digitalWrite(L1, LOW);
+     digitalWrite(R1, LOW);
+    digitalWrite(R2, HIGH);
+    digitalWrite(L1, HIGH);
+    digitalWrite(L2, LOW);
   }
 
   else if (t == 'L')         //TURNS LEFT AS RIGHT MOTORS MOVE FORWARD AND LEFT MOTORS MOVE BACKWARD  

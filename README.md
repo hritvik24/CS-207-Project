@@ -14,8 +14,8 @@ There were modifications done in many different Sections of Project such as maki
 
 ### COMPONENTS
 
-- 4     X     RUBBER WHEELS
-- 4     X     DC MOTORS
+- 4     X     [RUBBER WHEELS](https://www.amazon.ca/Geekstory-Gearbox-Motor-200RPM-Arduino/dp/B0828RRCJK/ref=sr_1_4?dchild=1&keywords=WHEELS+AND+DC+MOTOR&qid=1618462084&sr=8-4)
+- 4     X     [DC MOTORS](https://www.amazon.ca/Geekstory-Gearbox-Motor-200RPM-Arduino/dp/B0828RRCJK/ref=sr_1_4?dchild=1&keywords=WHEELS+AND+DC+MOTOR&qid=1618462084&sr=8-4)
 - 30    X     [JUMPER WIRES](https://www.amazon.ca/Multicolored-Breadboard-Dupont-Jumper-wires/dp/B0758DPL2C/ref=sr_1_34?dchild=1&keywords=jumper+cable+set+for+arduino&qid=1618461429&sr=8-34)
 - 1     X     [ULTRASONIC SENSOR](https://www.amazon.ca/CANADUINO-Ultrasonic-Distance-Sensor-Raspberry/dp/B075CRBS56/ref=sr_1_11?dchild=1&keywords=Ultrasonic+sensor&qid=1618461687&sr=8-11)
 - 1     X     [SERVO](https://www.amazon.ca/Miuzei-Motors-Helicopter-Airplane-Control/dp/B07Z16DWGW/ref=sr_1_1?dchild=1&keywords=KeeYees+SG90+9G+Micro+Servo+Motor+with+PCA9685+16+Channel+12+Bit+PWM+Servo+Motor+Driver+IIC+Module+for+Arduino+RC+Robot+Helicopter+Airplane+Remote+Control&qid=1618461776&sr=8-1)
